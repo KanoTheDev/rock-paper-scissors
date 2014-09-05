@@ -17,6 +17,6 @@
 * Object-oriented-programming
 * Object-orientated design
 
-###Implementaion
+###Implementation
 
 Run `shotgun` and visit `localhost:9393`
